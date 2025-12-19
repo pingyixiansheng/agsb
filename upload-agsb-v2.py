@@ -32,7 +32,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "yizhouxingjiangnan"         # 用户名
-UUID = ""                     # UUID，留空则自动生成
+UUID = "bb300e09-8a96-4c96-9460-f6a84d966046"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "yixiansheng.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiY2I0ZTk4YWQxYjZkZTY2OWI3YTk3YTIxOWJkOTQzYTQiLCJ0IjoiMzhiNzc4OGMtNzY0My00NDU2LWJkN2MtYzVkM2Q0ZGIzMGY5IiwicyI6Ik5tRTBNemN6TkRVdE1EYzJNUzAwTkdVNUxUbGhNamd0TUdJelpUWTRNR1kyWkRneiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
